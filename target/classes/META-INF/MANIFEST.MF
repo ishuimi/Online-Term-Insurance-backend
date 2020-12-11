@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: termInsurance
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Ishu
+Implementation-Vendor-Id: com.online
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://spring.io/projects/spring-boot/termInsuran
+ ce
+Created-By: Maven Integration for Eclipse
+
